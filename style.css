@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  align-items: center;
+}
+a{
+padding: 10px, 0px, 10px, 0px;
+background-color: grey;
+}
+figcaption{
+  font-size: 50px;
+}
+#featured-property p{
+  width: 800px;
+  text-align: center;
+}
+#details div {
+float: left;
+}
+div h3{
+background-color: hotpink;
+text-align: center;
+width: 25%;
+}
+div p{
+background-color: hotpink;
+text-align: center;
+width: 25%;
+}
